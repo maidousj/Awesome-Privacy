@@ -8,7 +8,8 @@ Mathematical Frameworks(Theoretical research in differential privacy is very hot
 Privacy in practice(Since we already have these privacy algorithms, it's important to think about how to implement them efficiently and securely)   
 Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems)    
 
-## Framework  
+## Framework
+
 ### General DP theory  
 * pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity [[paper]](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovic. 2018
 * Differentially Private Continual Learning [[paper]](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018
@@ -72,4 +73,12 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * KDD 2018 Privacy tutorial [[link]](https://sites.google.com/view/kdd2018privacytutorial)
 * KDD 2018 Privacy at scale: Local Differential Privacy in Practice [[link]](https://sites.google.com/view/kdd2018-tutorial/home)
 * NIPS 2017 Privacy tutorial: Differentially Private Machine Learning: Theory, Algorithms, and Applications [[link]](https://www.ece.rutgers.edu/~asarwate/nips2017/)
+* University at Buffalo, SUNY. CSE 660 Fall 2017 DP by Marco Gaboardi [[link]](https://www.acsu.buffalo.edu/~gaboardi/teaching/CSE660-fall17.html) 
+
+## Influential Authors 
+
+* Kamalika Chaudhuri [[link]](http://cseweb.ucsd.edu/~kamalika/), UCSD. Mainly focus on ML. Initiate research on **private ERM** with her student Shuang Song [[link]](http://cseweb.ucsd.edu/~shs037/). 
+* Ashwin Machanavajjhala [[link]](https://users.cs.duke.edu/~ashwin/index.html), Duke University. Some teaching maybe helpful.
+
+
 
