@@ -80,5 +80,3 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Kamalika Chaudhuri [[link]](http://cseweb.ucsd.edu/~kamalika/), UCSD. Mainly focus on ML. Initiate research on **private ERM** with her student Shuang Song [[link]](http://cseweb.ucsd.edu/~shs037/). 
 * Ashwin Machanavajjhala [[link]](https://users.cs.duke.edu/~ashwin/index.html), Duke University. Some teaching maybe helpful.
 
-
-
