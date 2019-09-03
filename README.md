@@ -83,3 +83,6 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 
 ## Codes
 * Diffprivlib: The IBM Differential Privacy Library [[code]](https://github.com/IBM/differential-privacy-library)
+
+## Blogs
+* cleverhans-blog: a blog by Ian Goodfellow and Nicolas Papernot about security and privacy in machine learning. [[link]](https://www.cleverhans.io)
