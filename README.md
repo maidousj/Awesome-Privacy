@@ -71,4 +71,5 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Emory University CS 573 Data Privacy and Security, Fall 2018 [[course website]](http://www.cs.emory.edu/~lxiong/cs573/)
 * KDD 2018 Privacy tutorial [[link]](https://sites.google.com/view/kdd2018privacytutorial)
 * KDD 2018 Privacy at scale: Local Differential Privacy in Practice [[link]](https://sites.google.com/view/kdd2018-tutorial/home)
+* NIPS 2017 Privacy tutorial: Differentially Private Machine Learning: Theory, Algorithms, and Applications [[link]](https://www.ece.rutgers.edu/~asarwate/nips2017/)
 
