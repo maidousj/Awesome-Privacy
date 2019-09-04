@@ -86,3 +86,4 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 
 ## Blogs
 * cleverhans-blog: a blog by Ian Goodfellow and Nicolas Papernot about security and privacy in machine learning. [[link]](https://www.cleverhans.io)
+* Frank McSherry. [[link]](https://github.com/frankmcsherry/blog)
