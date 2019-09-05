@@ -80,6 +80,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Kamalika Chaudhuri [[link]](http://cseweb.ucsd.edu/~kamalika/), UCSD. Mainly focus on ML. Initiate research on **private ERM** with her student Shuang Song [[link]](http://cseweb.ucsd.edu/~shs037/). 
 * Ashwin Machanavajjhala [[link]](https://users.cs.duke.edu/~ashwin/index.html), Duke University. Some teaching maybe helpful.
 * Tianhao Wang [[link]](https://tianhao.wang), Purdue University. DP and LDP.
+* Yuxiang Wang [[link]](https://sites.cs.ucsb.edu/~yuxiangw/index.html), UCSB. Make differential privacy practical and develop a statistical foundation for off-policy reinforcement learning.
 
 ## Codes
 * Diffprivlib: The IBM Differential Privacy Library [[code]](https://github.com/IBM/differential-privacy-library)
