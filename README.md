@@ -82,7 +82,8 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Tianhao Wang [[link]](https://tianhao.wang), Purdue University. DP and LDP.
 * Yuxiang Wang [[link]](https://sites.cs.ucsb.edu/~yuxiangw/index.html), UCSB. Make differential privacy practical and develop a statistical foundation for off-policy reinforcement learning.
 * Di Wang [[link]](http://www.acsu.buffalo.edu/~dwang45/), State University of New York at Buffalo. DPML. 
-* Bargav Jayaraman [[link]]https://bargavjayaraman.github.io), University of Virginia. PPML.
+* Bargav Jayaraman [[link]](https://bargavjayaraman.github.io), University of Virginia. PPML.
+* Jun Zhao [[link]](https://junzhao-cmu.wixsite.com/resume), Nanyang Technological University. PPML.
 
 ## Codes
 * Diffprivlib: The IBM Differential Privacy Library [[code]](https://github.com/IBM/differential-privacy-library)
