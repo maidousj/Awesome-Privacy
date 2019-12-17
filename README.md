@@ -84,6 +84,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Di Wang [[link]](http://www.acsu.buffalo.edu/~dwang45/), State University of New York at Buffalo. DPML. 
 * Bargav Jayaraman [[link]](https://bargavjayaraman.github.io), University of Virginia. PPML.
 * Jun Zhao [[link]](https://junzhao-cmu.wixsite.com/resume), Nanyang Technological University. PPML.
+* BorjaBalle [[Homepage]](https://borjaballe.github.io), [[Github]](https://github.com/BorjaBalle), DeepMind. ML related Theorem, Algorithm and Application. PPML.
 
 ## Codes
 * Diffprivlib: The IBM Differential Privacy Library [[code]](https://github.com/IBM/differential-privacy-library)
