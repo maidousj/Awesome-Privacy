@@ -74,6 +74,8 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * KDD 2018 Privacy at scale: Local Differential Privacy in Practice [[link]](https://sites.google.com/view/kdd2018-tutorial/home)
 * NIPS 2017 Privacy tutorial: Differentially Private Machine Learning: Theory, Algorithms, and Applications [[link]](https://www.ece.rutgers.edu/~asarwate/nips2017/)
 * University at Buffalo, SUNY. CSE 660 Fall 2017 DP by Marco Gaboardi [[link]](https://www.acsu.buffalo.edu/~gaboardi/teaching/CSE660-fall17.html) 
+* Big Data and Differential Privacy [[link]](https://simons.berkeley.edu/workshops/schedule/78)
+* Some Courses realted to DP on DPwiki [[link]](https://dpwiki.org/index.php?title=Differential_Privacy_Courses)
 
 ## Influential Authors 
 
